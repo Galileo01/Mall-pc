@@ -50,6 +50,6 @@ npm run build
 ### Api 结构
 和移动端项目 mall 一致，[移步mall项目](https://github.com/Galileo01/Mall-source-code-repository)
 
-请chrome移动端模式下 [查看演示](https://gitee.com/ego-git/mall_pc_exhibition_warehouse)
+查看码云pages 服务 [查看演示](http://ego-git.gitee.io/mall_pc_exhibition_warehouse)
 
 目录结构 [见](./src/tree.txt)
